@@ -7,6 +7,7 @@
 <p align="center">
   <a href="https://arxiv.org/abs/2312.07398"><img src="https://img.shields.io/badge/Paper-Arxiv-blue.svg?style=for-the-badge" alt="Paper"></a>
   <a href="https://doi.org/10.1609/aaai.v38i17.29934"><img src="https://img.shields.io/badge/Venue-AAAI%202024-orange.svg?style=for-the-badge" alt="AAAI 2024"></a>
+  <a href="https://llmeval.com/"><img src="https://img.shields.io/badge/Website-llmeval.com-2ea44f.svg?style=for-the-badge" alt="Website"></a>
   <a href="https://github.com/llmeval"><img src="https://img.shields.io/badge/Org-LLMEval-green.svg?style=for-the-badge" alt="LLMEval"></a>
 </p>
 
@@ -68,7 +69,7 @@ The complete evaluation report is available: [LLMEVAL-2.pdf](LLMEVAL-2.pdf)
 | **LLMEval-1** | Phase I: General capability evaluation | [GitHub](https://github.com/llmeval/LLMEval-1) |
 | **LLMEval-Fair** (ACL 2026) | Robust & fair evaluation, 200K+ questions | [GitHub](https://github.com/llmeval/LLMEval-Fair) |
 | **LLMEval-Med** (EMNLP 2025) | Medical LLM benchmark | [GitHub](https://github.com/llmeval/LLMEval-Med) |
-| **Official Website** | All projects & leaderboard | [llmeval.com](http://llmeval.com/) |
+| **Official Website** | All projects & leaderboard | [llmeval.com](https://llmeval.com/) |
 
 ## 📝 Citation
 
@@ -89,7 +90,7 @@ The complete evaluation report is available: [LLMEVAL-2.pdf](LLMEVAL-2.pdf)
 
 This project is open to the public, and we welcome you to participate in our evaluation.
 
-- **Website**: [http://llmeval.com/](http://llmeval.com/)
+- **Website**: [https://llmeval.com/](https://llmeval.com/)
 - **Email**: mingzhang23@m.fudan.edu.cn
 - **WeChat**: zanyingluan
 
