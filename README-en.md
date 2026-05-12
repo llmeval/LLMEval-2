@@ -2,7 +2,7 @@
 
 <div align=center><img src="llmeval-logo.png"/></div>
 
-(TODO: abstract and Axive link)
+> This file is a legacy English draft kept for archival reference. Please use the polished English README at [README.md](README.md) for the current project overview, Hugging Face dataset link, usage notes, and citation.
 
 ## Introduction
 
